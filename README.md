@@ -1,62 +1,12 @@
 <!DOCTYPE html>
 <html>
 <head>
-  <style>
-    body {
-      font-family: "Arial", sans-serif;
-      background-color: #ffe4f3;
-      color: #5a189a;
-      margin: 0;
-      padding: 0;
-    }
-    h1, h2, h3 {
-      text-align: center;
-    }
-    h1 {
-      color: #c9184a;
-      font-size: 3em;
-      margin-top: 20px;
-    }
-    h2 {
-      color: #ff6f91;
-      font-size: 2.5em;
-    }
-    h3 {
-      color: #9d4edd;
-      font-size: 1.5em;
-    }
-    .section {
-      margin: 20px auto;
-      width: 80%;
-      max-width: 900px;
-      background: #fef6ff;
-      padding: 20px;
-      border-radius: 15px;
-      box-shadow: 0 4px 10px rgba(0, 0, 0, 0.2);
-    }
-    .toolbox, .social {
-      display: flex;
-      justify-content: center;
-      gap: 15px;
-      flex-wrap: wrap;
-    }
-    a img {
-      transition: transform 0.3s;
-    }
-    a img:hover {
-      transform: scale(1.1);
-    }
-    .github-stats, .github-trophies {
-      display: flex;
-      justify-content: center;
-      margin: 20px 0;
-    }
-  </style>
+
 </head>
 <body>
 
 <h1>✨ Greetings, dear traveller! ✨</h1>
-<h2>My name is Jamie </h2>
+<h1>My name is Jamie </h2>
 <h3>A creative game developer-in-the-making from Belgium 🌸</h3>
 
 <p align="center">
